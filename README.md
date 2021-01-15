@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hello There 👋
+
+I'm James H. Floyd, a entry programmer fresh out of Florida Polytechnic University.
+
+
 
 <!--
 **JamesFloyd-Pen/JamesFloyd-Pen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
