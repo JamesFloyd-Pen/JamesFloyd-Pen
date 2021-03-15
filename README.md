@@ -5,7 +5,7 @@ I'm James H. Floyd, a entry programmer fresh out of Florida Polytechnic Universi
 # 🔭 I’m currently working on Projects
 - Base32H: Java Version
 - Website Designs: In Progress
-- Mobile App Sample: Yet to be started
+- Mobile App Sample: PenguinPedia
 
 # Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFloyd-Pen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
