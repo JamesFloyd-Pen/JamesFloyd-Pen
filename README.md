@@ -1,6 +1,6 @@
 # Hello There 👋
 
-I'm James H. Floyd, a entry programmer fresh out of Florida Polytechnic University.
+I'm James H. Floyd, a entry level software developer who graduated from Florida Polytechnic University at 2020.
 
 # 🔭 I’m currently working on Projects
 - Base32H: Java Version
