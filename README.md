@@ -1,11 +1,11 @@
 # Hello There 👋
 
-I'm James H. Floyd, a entry level software developer who graduated from Florida Polytechnic University at 2020.
+I'm James H. Floyd, a entry level software developer who graduated from Florida Polytechnic University at 2020. Primary uses Java.
 
-# 🔭 I’m currently working on Projects
-- Base32H: Java Version
-- Website Designs: In Progress
-- Mobile App Sample: PenguinPedia
+# 🔭 Projects I have completed
+- [Base32H](https://github.com/JamesFloyd-Pen/base32h.java): Java Version
+- [Paint Program](https://github.com/JamesFloyd-Pen/Paint-Program): WebGL project
+- [PenguinPedia](https://github.com/JamesFloyd-Pen/PenguinPedia): Mobile Application about Penguins
 
 # Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFloyd-Pen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
