@@ -8,10 +8,10 @@ I'm James H. Floyd, an entry level software developer who graduated from Florida
 - [PenguinPedia](https://github.com/JamesFloyd-Pen/PenguinPedia): Mobile Application about Penguins
 
 # Stats 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFloyd-Pen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-[![James' github stats](https://github-readme-stats.vercel.app/api?username=JamesFloyd-Pen)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFloyd-Pen&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
+[![James' github stats](https://github-readme-stats.vercel.app/api?username=JamesFloyd-Pen&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
 
-<!--
+<!--discord_old_blurple
 **JamesFloyd-Pen/JamesFloyd-Pen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
