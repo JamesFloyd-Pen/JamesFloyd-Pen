@@ -7,6 +7,7 @@ I'm James H. Floyd, an entry level software developer who graduated from Florida
 - [Paint Program](https://github.com/JamesFloyd-Pen/Paint-Program): WebGL project
 - [PenguinPedia](https://github.com/JamesFloyd-Pen/PenguinPedia): Mobile Application about Penguin
 - [CS50-ART](https://github.com/JamesFloyd-Pen/CS50-Art): CS50x Final Project
+- [Helm] (https://github.com/JamesFloyd-Pen/Helm): Helm (Senior Design Mobile Project)
 
 # Stats 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JamesFloyd-Pen&layout=compact&theme=discord_old_blurple)](https://github.com/anuraghazra/github-readme-stats)
