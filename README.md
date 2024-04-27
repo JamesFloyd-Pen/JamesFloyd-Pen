@@ -5,7 +5,8 @@ I'm James H. Floyd, an entry level software developer who graduated from Florida
 # 🔭 Projects I have completed
 - [Base32H](https://github.com/JamesFloyd-Pen/base32h.java): Java Version
 - [Paint Program](https://github.com/JamesFloyd-Pen/Paint-Program): WebGL project
-- [PenguinPedia](https://github.com/JamesFloyd-Pen/PenguinPedia): Mobile Application about Penguin
+- [PenguinPedia](https://github.com/JamesFloyd-Pen/PenguinPedia): Mobile Application about penguins
+- [PenguinPedia-Web](https://github.com/JamesFloyd-Pen/PenguinPedia-Website): Website Application about penguins
 - [CS50-ART](https://github.com/JamesFloyd-Pen/CS50-Art): CS50x Final Project
 - [Helm](https://github.com/JamesFloyd-Pen/Helm): Helm (Senior Design Mobile Project)
 
